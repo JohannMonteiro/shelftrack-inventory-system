@@ -196,7 +196,7 @@ npm run dev
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+![screenshot](./screenshot.png)
 
 ## 📚 What I Learned
 
